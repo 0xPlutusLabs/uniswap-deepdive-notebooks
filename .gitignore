@@ -1,3 +1,9 @@
+
+#macOS
+.DS_Store
+data/.DS_Store
+data/v3Mainnet.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
